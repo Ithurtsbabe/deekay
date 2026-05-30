@@ -6,7 +6,7 @@ export const config = {
 
 // Hardcoded target domain.
 // No trailing slash.
-const TARGET_DOMAIN = "http://germany02.connection-checker.com";
+const TARGET_DOMAIN = "http://nxtusa.connection-checker.com";
 
 const HOP_BY_HOP_HEADERS = new Set([
   "connection",
